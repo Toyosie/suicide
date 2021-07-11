@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 #load the encryped model
-model = pickle.load(open('Implementation/booster.pkl', 'rb'))
+model = pickle.load(open('booster.pkl', 'rb'))
 
 app = Flask(__name__)
 
