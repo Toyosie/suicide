@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" class="antialiased">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/@tailwindcss/custom-forms/dist/custom-forms.min.css" rel="stylesheet">
+   
+    <style>
+        .max-h-64 {
+            max-height: 16rem;
+        }
+        /*Quick overrides of the form input as using the CDN version*/
+        .form-input,
+        .form-textarea,
+        .form-select,
+        .form-multiselect {
+            background-color: #e3e9ee;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 text-gray-900 tracking-wider leading-normal">
+
+    <nav id="header" class="bg-white fixed w-full z-10 top-0 shadow">
+
+        <div class="w-full container mx-auto flex flex-wrap items-center justify-between my-4">
+
+            <div class="pl-4 md:pl-0">
+                <a class="flex items-center text-yellow-600 text-base xl:text-xl no-underline hover:no-underline font-extrabold font-sans" href="/">
+                    <svg class="fill-current h-6 inline-block text-yellow-600 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                        <path d="M16 2h4v15a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V0h16v2zm0 2v13a1 1 0 0 0 1 1 1 1 0 0 0 1-1V4h-2zM2 2v15a1 1 0 0 0 1 1h11.17a2.98 2.98 0 0 1-.17-1V2H2zm2 8h8v2H4v-2zm0 4h8v2H4v-2zM4 4h8v4H4V4z" />
+                    </svg> Go back home
+                </a>
+            </div>
+
+        </div>
+    </nav>
+
+<!-- Section 1 -->
+            <!--divider-->
+            <hr class="bg-gray-300 my-8">
+
+            <!--Title-->
+            <h2 class="font-sans font-bold break-normal text-gray-700 px-2 pb-1 text-xl">Section 1</h2>
+
+            <!--Card-->
+            <div id='section2' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+
+                <form method="POST", action="{{url_for('form')}}">
+                    <!--1. Name -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-textfield">
+                                Name
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <input class="form-input block w-full focus:bg-white" id="my-textfield" type="text" name="A">
+                            <p class="py-2 text-sm text-gray-600"> You don't have to enter your name. It's optional.</p>
+                        </div>
+                    </div>
+
+                        <!--2. Gender -->
+                        <div class="md:flex mb-6">
+                            <div class="md:w-1/6">
+                                <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-radio">
+                                    Gender
+                                </label>
+                            </div>
+                            <div class="md:w-1/3">
+                                <div class="mt-2">
+                                    <label class="inline-flex items-center">
+                                        <input type="radio" class="form-radio text-indigo-600" name="radio1" value="1" required>
+                                        <span class="ml-2">Male</span>
+                                    </label>
+                                    <label class="inline-flex items-center ml-6">
+                                        <input type="radio" class="form-radio" name="radio1" value="0" required>
+                                        <span class="ml-2">Female</span>
+                                    </label>
+                                </div>
+                                <p class="py-2 text-sm text-gray-600">Please choose your registered gender</p>
+                            </div>
+                        </div>
+
+                        <!--3. Age -->
+                        <div class="md:flex mb-6">
+                            <div class="md:w-1/6">
+                                <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-textfield">
+                                    Age
+                                </label>
+                            </div>
+                            <div class="md:w-1/3">
+                                <input class="form-input block w-full focus:bg-white" id="my-textfield" type="number" name="B" required>
+                                <p class="py-2 text-sm text-gray-600">How old are you?</p>
+                            </div>
+                        </div>
+
+                        <!--4. Race -->
+                        <div class="md:flex mb-6">
+                            <div class="md:w-1/6">
+                                <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-select">
+                                    Race
+                                </label>
+                            </div>
+                            <div class="md:w-1/3">
+                                <select name="C" class="form-select block w-full focus:bg-white" id="my-select" required>
+                                    <option >Please select an option</option>
+                                    <option value="0">African</option>
+                                    <option value="1">Asian</option>
+                                    <option value="2">European</option>
+                                    <option value="3">Hispanic</option>
+                                    <option value="4">Indian</option>
+                                    <option value="5">Middle-Eastern</option>
+                                    <option value="6">Mixed</option>
+                                    <option value="7">Pakistani</option>
+                                    <option value="8">Turkish</option>
+                                    <option value="9">White</option>
+                                    <option value="10">White Non-Hispanic</option>
+                                </select>
+                                <p class="py-2 text-sm text-gray-600">Please choose a category</p>
+                            </div>
+                        </div>
+                    </div>
+            <!--/Card-->
+
+
+ <!-- Section 2 -->
+            <!--divider-->
+            <hr class="bg-gray-300 my-8">
+
+            <!--Title-->
+            <h2 class="font-sans font-bold break-normal text-gray-700 px-1 pb-1 text-xl">Section 2</h2>
+            <h6 class="font-sans break-normal text-gray-600"> Please answer this section as honestly as you can</h6>
+            <!--Card-->
+            <div id='section3' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+
+                    <!-- 5. Bodyweight -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-select">
+                                Bodyweight
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <select name="D" class="form-select block w-full focus:bg-white" id="my-select" required>
+                                <option >Please select an option</option>
+                                <option value="0">Normal weight</option>
+                                <option value="1">Obese</option>
+                                <option value="2">Overweight</option>
+                                <option value="3">Underweight</option>
+                            </select>
+                            <p class="py-2 text-sm text-gray-600">Classify your bodyweight</p>
+                        </div>
+                    </div>
+
+
+                     <!-- 6. Sexuality -->
+                     <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-select">
+                                Sexuality
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <select name="E" class="form-select block w-full focus:bg-white" id="my-select" required>
+                                <option >Please select an option</option>
+                                <option value="0">Bisexual</option>
+                                <option value="1">Gay/Lesbian</option>
+                                <option value="2">Straight</option>
+                                <option value="3">Other</option>
+                            </select>
+                            <p class="py-2 text-sm text-gray-600">What's your sexual orientation?</p>
+                        </div>
+                    </div>
+
+
+                    <!--7.  Virgin -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-radio">
+                                Virgin
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <div class="mt-2">
+                                <label class="inline-flex items-center">
+                                    <input type="radio" class="form-radio text-indigo-600" name="radio2" value="1" required>
+                                    <span class="ml-2">Yes</span>
+                                </label>
+                                <label class="inline-flex items-center ml-6">
+                                    <input type="radio" class="form-radio" name="radio2" value="0" required>
+                                    <span class="ml-2">No</span>
+                                </label>
+                            </div>
+                            <p class="py-2 text-sm text-gray-600">Are you a Virgin?</p>
+                        </div>
+                    </div>
+
+
+                    <!--8.  social fear -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-radio">
+                                Social fear
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <div class="mt-2">
+                                <label class="inline-flex items-center">
+                                    <input type="radio" class="form-radio text-indigo-600" name="radio3" value="1" required >
+                                    <span class="ml-2">Yes</span>
+                                </label>
+                                <label class="inline-flex items-center ml-6">
+                                    <input type="radio" class="form-radio" name="radio3" value="0" required>
+                                    <span class="ml-2">No</span>
+                                </label>
+                            </div>
+                            <p class="py-2 text-sm text-gray-600">Do you have social fears?</p>
+                        </div>
+                    </div>
+                   
+                    <!--9.  Depressed -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-radio">
+                                Depressed
+                            </label>
+                        </div>
+                        <div class="md:w-1/3 mb-6">
+                            <div class="mt-2">
+                                <label class="inline-flex items-center">
+                                    <input type="radio" class="form-radio text-indigo-600" name="radio4" value="1" required>
+                                    <span class="ml-2">Yes</span>
+                                </label>
+                                <label class="inline-flex items-center ml-6">
+                                    <input type="radio" class="form-radio" name="radio4" value="0" required>
+                                    <span class="ml-2">No</span>
+                                </label>
+                            </div>
+                            <p class="py-2 text-sm text-gray-600">Do you often get depressed?</p>
+                        </div>
+
+
+                    <!--10. friends -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-textfield">
+                                Friends
+                            </label>
+                        </div>
+                        <div class="md:w-2/3">
+                            <input class="form-input block w-full focus:bg-white" id="my-textfield" type="number" name="F" required>
+                            <p class="py-2 text-sm text-gray-600">Give an estimate of the number of close friends you have</p>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+
+<!-- Section 3 -->
+            <!--/Card-->
+
+            <!--divider-->
+            <hr class="bg-gray-300 my-8">
+
+            <!--Title-->
+            <h2 class="font-sans font-bold break-normal text-gray-700 px-2 pb-8 text-xl">Section 3</h2>
+
+            <!--Card-->
+            <div id='section3' class="p-8 mt-2 lg:mt-0 rounded shadow bg-white">
+
+                    <!-- 11. Educational level -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-select">
+                                Educational Level
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <select name="G" class="form-select block w-full focus:bg-white" id="my-select" required>
+                                <option value="">Please select an option</option>
+                                <option value="9">No degree</option>
+                                <option value="5">High school degree</option>
+                                <option value="2">College degree</option>
+                                <option value="3">Diploma</option>
+                                <option value="0">Associate degree</option>
+                                <option value="1">Bachelor's degree</option>
+                                <option value="7">Professional degree</option>
+                                <option value="6">Masters degree</option>   
+                                <option value="4">Doctorate degree</option>
+                                <option value="8">Trade</option>
+                                
+                            </select>
+                            <p class="py-2 text-sm text-gray-600">Choose your highest educational level</p>
+                        </div>
+                    </div>
+
+
+                    <!--12. Job title -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-select">
+                                Job
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <select name="H" class="form-select block w-full focus:bg-white" id="my-select" required>
+                                <option value="">Please select an option</option>
+                                <option value="0">Entrepreneur</option>
+                                <option value="1">Freelancer</option>
+                                <option value="2">Intern</option>
+                                <option value="3">Non-office job</option>
+                                <option value="4">Office job</option>
+                                <option value="5">Others</option>
+                                <option value="6">Unemployed</option>
+                            </select>
+                            <p class="py-2 text-sm text-gray-600">Please choose a category</p>
+                        </div>
+                    </div>
+
+                    <!--13. Income -->
+                    <div class="md:flex mb-6">
+                        <div class="md:w-1/6">
+                            <label class="block text-gray-600 font-bold md:text-left mb-3 md:mb-0 pr-4" for="my-textfield">
+                                Income
+                            </label>
+                        </div>
+                        <div class="md:w-1/3">
+                            <input class="form-input block w-full focus:bg-white" id="my-textfield" type="number" name="I" required>
+                            <p class="py-2 text-sm text-gray-600">How much do you earn?</p>
+                        </div>
+                    </div>
+            </div>
+            <!--/Card-->
+
+
+<!-- submit -->
+            <!--divider-->
+            <hr class="bg-gray-300 my-8">
+
+            <!--Card-->
+            <div id='section5' class="p-8 mt-6 lg:mt-0 rounded shadow bg-white">
+
+                <blockquote class="border-l-4 border-yellow-600 italic my-4 pl-8 md:pl-12">Thank you for answering each section correctly</blockquote>
+
+                <div class="pt-8">
+
+                    <button class="shadow bg-yellow-700 hover:bg-yellow-500 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded mr-4" 
+                            type="submit">
+                        Predict
+                    </button>
+
+                    <!-- <button class="shadow bg-yellow-100 hover:bg-yellow-200 focus:shadow-outline focus:outline-none text-gray-700 font-bold py-2 px-4 rounded mr-4" type="button">
+                        Retake
+                    </button> -->
+                </div>
+            </div>
+            <!--/Card-->
+
+        </section>
+        <!--/Section container-->
+
+
+      </div>
+      <!--/container-->
+    </form>
+</body>
+</html>

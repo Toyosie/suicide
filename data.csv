@@ -1,0 +1,462 @@
+,gender,sexuallity,age,income,race,bodyweight,virgin,friends,social_fear,depressed,attempt_suicide,job_title,edu_level
+0,Male,Straight,35,34999.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,Yes,mechanical drafter,Associate degree
+1,Male,Bisexual,21,5000.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+2,Male,Straight,22,0.0,White non-Hispanic,Overweight,Yes,10.0,Yes,Yes,No,Unemployed,College degree
+3,Male,Straight,19,5000.5,White non-Hispanic,Overweight,Yes,8.0,Yes,Yes,No,Unemployed,College degree
+4,Male,Straight,23,34999.5,White non-Hispanic,Overweight,No,10.0,No,Yes,No,Factory worker,Diploma
+5,Male,Straight,24,62499.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,Yes,Programmer,Bachelor’s degree
+6,Male,Straight,22,5000.5,White non-Hispanic,Underweight,Yes,2.0,Yes,Yes,No,Janitor,Diploma
+7,Female,Gay/Lesbian,24,24999.5,White non-Hispanic,Normal weight,Yes,10.0,Yes,Yes,Yes,Fabricator,Trade
+8,Male,Straight,20,14999.5,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,No,cashier,College degree
+9,Male,Straight,33,62499.5,White non-Hispanic,Overweight,No,6.0,Yes,Yes,Yes,Software Engineer,Master’s degree
+10,Female,Straight,32,62499.5,Hispanic,Overweight,Yes,5.0,No,No,No,Nurse,Bachelor’s degree
+11,Male,Straight,25,5000.5,Asian,Normal weight,Yes,0.0,Yes,Yes,Yes,Freight Broker,College degree
+12,Male,other,24,5000.5,White non-Hispanic,Normal weight,No,20.0,No,No,No,Unemployed,College degree
+13,Female,Straight,23,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,Yes,Unemployed,Diploma
+14,Male,Straight,22,34999.5,Hispanic,Normal weight,Yes,0.0,No,Yes,No,broker,Bachelor’s degree
+15,Male,Straight,23,0.0,White non-Hispanic,Underweight,Yes,6.0,No,Yes,No,Unemployed,Diploma
+16,Female,Straight,29,5000.5,Asian,Normal weight,Yes,5.0,Yes,Yes,No,Intern,Bachelor’s degree
+17,Male,Straight,21,5000.5,Asian,Normal weight,No,12.0,No,No,No,Unemployed,Bachelor’s degree
+18,Male,Straight,17,5000.5,White non-Hispanic,Overweight,Yes,5.0,Yes,Yes,Yes,Unemployed,High school degree
+19,Male,Straight,29,87499.5,European,Normal weight,Yes,1.0,Yes,Yes,No,Surveyor,Diploma
+20,Male,Straight,32,14999.5,White non-Hispanic,Normal weight,Yes,10.0,Yes,Yes,No,Teacher,Bachelor’s degree
+21,Female,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,8.0,Yes,Yes,No,Unemployed,College degree
+22,Male,Straight,24,0.0,Hispanic,Normal weight,Yes,40.0,Yes,Yes,No,Unemployed,High school degree
+23,Male,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,10.0,No,No,No,Kitchen staff,Bachelor’s degree
+24,Male,Straight,21,24999.5,White non-Hispanic,Normal weight,Yes,5.0,Yes,Yes,No,Software Developer,Diploma
+25,Female,Straight,17,0.0,White non-Hispanic,Underweight,Yes,5.0,Yes,No,No,Unemployed,High school degree
+26,Male,Straight,24,24999.5,White non-Hispanic,Normal weight,No,3.0,No,No,No,Unemployed,Trade
+27,Male,Straight,17,0.0,White non-Hispanic,Normal weight,Yes,5.0,Yes,Yes,No,Unemployed,High school degree
+28,Female,Straight,28,0.0,Asian,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+29,Male,Straight,19,5000.5,White non-Hispanic,Underweight,Yes,0.0,Yes,No,No,Peon,College degree
+30,Male,Straight,17,0.0,Asian,Underweight,Yes,5.0,Yes,No,No,Unemployed,High school degree
+31,Male,Straight,25,5000.5,White non-Hispanic,Underweight,Yes,6.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+32,Male,Straight,17,0.0,White non-Hispanic,Underweight,Yes,5.0,Yes,Yes,No,Unemployed,Diploma
+33,Male,Straight,23,14999.5,White non-Hispanic,Normal weight,No,13.0,No,Yes,No,Chef,Diploma
+34,Male,Straight,26,24999.5,White non-Hispanic,Overweight,Yes,6.0,No,No,No,Butcher,Diploma
+35,Male,Straight,26,0.0,White non-Hispanic,Normal weight,No,3.0,Yes,No,No,Medical Student,Doctorate degree
+36,Male,Straight,23,87499.5,White non-Hispanic,Normal weight,No,15.0,Yes,Yes,No,Software Developer,Bachelor’s degree
+37,Male,Straight,25,34999.5,Asian,Overweight,Yes,8.0,Yes,Yes,No,Analyst,Bachelor’s degree
+38,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,17.0,No,Yes,No,Cinema Student,College degree
+39,Male,Straight,19,0.0,White non-Hispanic,Normal weight,No,40.0,No,No,No,Engineer,Professional degree
+40,Male,Straight,19,5000.5,Asian,Normal weight,Yes,15.0,No,No,No,Unemployed,Bachelor’s degree
+42,Male,Straight,35,87499.5,White non-Hispanic,Normal weight,No,5.0,No,Yes,No,Software Developer,Bachelor’s degree
+43,Male,Straight,24,0.0,White non-Hispanic,Overweight,Yes,2.0,No,Yes,Yes,Admin Assistant,Diploma
+44,Male,Straight,22,14999.5,African,Normal weight,Yes,0.0,Yes,No,No,Cook,Diploma
+45,Female,Straight,23,24999.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,Master’s degree
+46,Male,Straight,20,24999.5,White non-Hispanic,Normal weight,Yes,5.0,No,No,No,Aviation Electricians Mate,College degree
+47,Male,Straight,25,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+48,Male,Bisexual,18,0.0,White non-Hispanic,Normal weight,Yes,10.0,Yes,Yes,No,Unemployed,Diploma
+49,Male,Straight,29,162499.5,White non-Hispanic,Overweight,Yes,3.0,Yes,Yes,No,Software Engineer,Bachelor’s degree
+50,Male,Bisexual,24,5000.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,Yes,Unemployed,College degree
+51,Female,Bisexual,23,5000.5,White non-Hispanic,Normal weight,No,4.0,Yes,No,No,Cashier,College degree
+52,Male,Straight,22,34999.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Analyst,College degree
+53,Male,Straight,25,14999.5,White non-Hispanic,Normal weight,Yes,6.0,No,Yes,No,researcher,Master’s degree
+54,Male,Straight,18,0.0,African,Overweight,Yes,0.0,Yes,No,No,Unemployed,Diploma
+55,Male,Straight,19,0.0,White non-Hispanic,Underweight,Yes,10.0,Yes,No,No,Unemployed,College degree
+56,Male,Straight,33,14999.5,Hispanic,Underweight,No,7.0,Yes,Yes,No,Unemployed,Diploma
+57,Male,Straight,23,24999.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Clerk,Bachelor’s degree
+58,Female,Straight,21,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+59,Male,Straight,22,5000.5,Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Intern,Bachelor’s degree
+60,Male,Straight,24,24999.5,White non-Hispanic,Overweight,Yes,20.0,No,Yes,No,Manager,Bachelor’s degree
+61,Transgender male,Straight,21,5000.5,White non-Hispanic,Normal weight,Yes,4.0,Yes,No,No,Engineering Student,College degree
+62,Male,Gay/Lesbian,25,24999.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,Supervisor,Bachelor’s degree
+63,Male,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,1.0,No,Yes,No,Unemployed,Diploma
+64,Male,Straight,16,5000.5,White non-Hispanic,Underweight,Yes,8.0,Yes,Yes,Yes,Unemployed,High school degree
+65,Male,Straight,22,14999.5,Middle Eastern,Normal weight,No,6.0,Yes,Yes,No,IT,College degree
+66,Male,Straight,20,0.0,White non-Hispanic,Overweight,Yes,4.0,No,No,No,Software Developer,College degree
+67,Male,Straight,28,5000.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+68,Male,Straight,21,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+69,Male,Straight,24,24999.5,Asian,Overweight,Yes,8.0,No,Yes,No,Unemployed,Master’s degree
+70,Male,Straight,38,5000.5,White non-Hispanic,Overweight,No,0.0,Yes,Yes,Yes,Unemployed,Diploma
+71,Male,Straight,24,14999.5,Mixed,Overweight,Yes,4.0,No,Yes,No,IT,Diploma
+72,Female,Straight,26,0.0,White non-Hispanic,Underweight,Yes,5.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+73,Male,Straight,25,62499.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,No,No,Engineer,Bachelor’s degree
+75,Male,Straight,28,62499.5,White non-Hispanic,Normal weight,Yes,12.0,Yes,Yes,Yes,Software Engineer,Bachelor’s degree
+76,Male,Straight,21,0.0,Hispanic,Normal weight,Yes,0.0,Yes,No,No,Unemployed,College degree
+77,Male,Straight,25,34999.5,Asian,Normal weight,Yes,2.0,Yes,Yes,No,Product Designer,Master’s degree
+78,Male,Straight,24,14999.5,White non-Hispanic,Normal weight,No,5.0,No,No,No,Data entry,Bachelor’s degree
+79,Male,Straight,19,5000.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,Unemployed,College degree
+80,Male,Straight,29,137499.5,African,Overweight,Yes,6.0,Yes,No,Yes,Engineer,College degree
+81,Male,Straight,25,34999.5,White non-Hispanic,Normal weight,No,4.0,Yes,No,No,Sales,Bachelor’s degree
+82,Male,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,10.0,No,No,No,Unemployed,Bachelor’s degree
+83,Male,Straight,23,5000.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,No,No,Unemployed,Diploma
+84,Male,Straight,30,0.0,Hispanic,Underweight,No,1.0,Yes,No,No,Analyst,College degree
+85,Male,Straight,15,0.0,White non-Hispanic,Normal weight,Yes,9.0,No,No,No,Unemployed,High school degree
+86,Female,Straight,28,24999.5,African,Obese,Yes,0.0,Yes,No,No,Programmer,Associate degree
+87,Male,Straight,18,5000.5,White non-Hispanic,Overweight,Yes,5.0,Yes,Yes,No,Unemployed,College degree
+88,Male,Straight,25,34999.5,White non-Hispanic,Normal weight,Yes,30.0,No,Yes,No,Medical Services,Trade
+89,Male,Straight,29,24999.5,Hispanic,Normal weight,Yes,4.0,No,Yes,No,Delivery guy,College degree
+90,Male,Straight,30,34999.5,Hispanic,Overweight,Yes,5.0,No,Yes,No,IT,Bachelor’s degree
+91,Male,Straight,24,14999.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Engineer,Bachelor’s degree
+92,Male,Straight,23,34999.5,White non-Hispanic,Overweight,Yes,100.0,No,Yes,No,Call Center Agent,Bachelor’s degree
+93,Male,Straight,34,24999.5,White non-Hispanic,Obese,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+94,Male,Straight,23,0.0,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+95,Male,Straight,22,24999.5,White non-Hispanic,Normal weight,No,3.0,Yes,Yes,No,Call Center Agent,College degree
+96,Male,Straight,23,5000.5,Hispanic,Normal weight,No,20.0,Yes,No,Yes,Economist,Bachelor’s degree
+97,Male,Straight,30,24999.5,White non-Hispanic,Normal weight,Yes,10.0,Yes,Yes,No,Farm hand,Diploma
+98,Male,Bisexual,19,0.0,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+99,Male,Straight,19,5000.5,White non-Hispanic,Normal weight,Yes,6.0,Yes,Yes,Yes,Unemployed,College degree
+100,Male,Straight,21,5000.5,White non-Hispanic,Normal weight,No,6.0,No,No,No,Unemployed,Diploma
+101,Male,Straight,16,0.0,Hispanic,Overweight,Yes,0.0,Yes,Yes,Yes,Unemployed,High school degree
+102,Female,Straight,25,0.0,White non-Hispanic,Normal weight,No,2.0,No,No,Yes,Unemployed,College degree
+103,Male,Straight,19,0.0,White non-Hispanic,Overweight,Yes,6.0,Yes,Yes,No,Unemployed,Diploma
+104,Female,Bisexual,26,62499.5,Hispanic,Normal weight,No,2.0,Yes,Yes,Yes,Optometric tech,Master’s degree
+105,Male,Straight,32,112499.5,White non-Hispanic,Overweight,Yes,5.0,Yes,Yes,No,Software Developer,Bachelor’s degree
+106,Male,Straight,28,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+107,Male,Straight,23,24999.5,White non-Hispanic,Normal weight,Yes,4.0,No,No,No,Worker,College degree
+108,Female,Straight,18,14999.5,Asian,Normal weight,Yes,10.0,Yes,No,No,Web developer,Bachelor’s degree
+109,Male,Straight,22,0.0,Asian,Normal weight,Yes,0.0,Yes,No,No,Unemployed,Bachelor’s degree
+110,Male,Straight,25,14999.5,African,Overweight,Yes,2.0,Yes,Yes,Yes,Unemployed,Diploma
+111,Male,Straight,19,34999.5,Asian,Normal weight,Yes,1.0,No,Yes,No,IT,Bachelor’s degree
+112,Male,Straight,21,34999.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,No,No,Unemployed,Bachelor’s degree
+113,Female,Straight,17,0.0,Asian,Underweight,Yes,16.0,No,No,No,Unemployed,Diploma
+114,Female,Bisexual,38,0.0,White non-Hispanic,Normal weight,No,0.0,Yes,Yes,Yes,Unemployed,Bachelor’s degree
+115,Male,Straight,23,24999.5,Hispanic,Normal weight,Yes,15.0,No,No,No,Unemployed,Bachelor’s degree
+116,Male,Straight,21,5000.5,White non-Hispanic,Underweight,Yes,3.0,No,No,No,Unemployed,College degree
+117,Male,Straight,19,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,No,No,Unemployed,Diploma
+118,Male,Straight,19,14999.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Software Developer,Diploma
+119,Male,Straight,21,87499.5,White non-Hispanic,Underweight,Yes,1.0,No,Yes,No, Ceo,Trade
+120,Male,Bisexual,23,24999.5,White non-Hispanic,Normal weight,Yes,4.0,No,Yes,No,Factory Worker,College degree
+121,Male,Straight,20,5000.5,White non-Hispanic,Underweight,Yes,5.0,Yes,Yes,No,Unemployed,College degree
+122,Male,Straight,20,5000.5,White non-Hispanic,Obese,Yes,3.0,Yes,Yes,Yes,Unemployed,College degree
+123,Male,Straight,21,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+124,Male,Bisexual,17,0.0,White non-Hispanic,Underweight,Yes,2.0,No,Yes,No,Unemployed,College degree
+125,Male,Straight,28,14999.5,White non-Hispanic,Normal weight,Yes,4.0,Yes,Yes,No,Supervisor,Bachelor’s degree
+126,Male,Bisexual,20,0.0,White non-Hispanic,Overweight,Yes,3.0,No,Yes,No,Unemployed,College degree
+127,Male,Bisexual,22,5000.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Cashier,College degree
+129,Male,Straight,28,24999.5,White non-Hispanic,Underweight,Yes,0.0,Yes,No,No,Truck driver,Trade
+130,Male,Straight,30,62499.5,Mixed,Underweight,No,12.0,Yes,Yes,No,Unemployed,College degree
+131,Male,Straight,24,5000.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,No,Yes,Caretaker,High school degree
+132,Male,Straight,26,162499.5,White non-Hispanic,Normal weight,No,20.0,Yes,No,No,Lawyer,Professional degree
+133,Male,Straight,21,5000.5,White non-Hispanic,Normal weight,Yes,6.0,No,Yes,No,Cook,College degree
+134,Male,Straight,34,14999.5,Asian,Normal weight,No,5.0,No,Yes,No,retail worker,Professional degree
+135,Male,Straight,22,0.0,Hispanic,Underweight,Yes,6.0,Yes,Yes,No,Unemployed,College degree
+136,Male,Straight,29,44999.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,Software Developer,Bachelor’s degree
+137,Male,Straight,29,34999.5,Pakistani,Overweight,Yes,18.0,No,No,No,IT,Diploma
+138,Male,Straight,24,5000.5,White non-Hispanic,Normal weight,Yes,1.0,No,No,No,Unemployed,Bachelor’s degree
+139,Male,Straight,30,350000.0,White non-Hispanic,Overweight,Yes,1.0,Yes,No,No,Software Engineer,Doctorate degree
+140,Male,Straight,19,14999.5,White non-Hispanic,Overweight,Yes,4.0,Yes,Yes,No,Engineer,College degree
+141,Male,Straight,28,62499.5,White non-Hispanic,Underweight,Yes,2.0,Yes,No,No,Software Engineer,Bachelor’s degree
+142,Female,Bisexual,19,5000.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,High school degree
+143,Male,Straight,19,14999.5,White non-Hispanic,Overweight,Yes,0.0,No,Yes,Yes,Unemployed,College degree
+144,Female,Straight,25,44999.5,Asian,Underweight,No,17.0,No,No,No,Administrator,Bachelor’s degree
+145,Female,Bisexual,21,0.0,Hispanic,Normal weight,No,10.0,Yes,Yes,Yes,Unemployed,College degree
+146,Male,Straight,35,87499.5,White non-Hispanic,Overweight,No,3.0,Yes,Yes,No,Software Developer,Bachelor’s degree
+147,Female,Straight,21,0.0,Asian,Normal weight,Yes,5.0,Yes,No,No,Intern,Bachelor’s degree
+148,Male,Straight,24,0.0,African,Normal weight,Yes,5.0,Yes,Yes,No,Unemployed,College degree
+149,Male,Straight,18,5000.5,White non-Hispanic,Normal weight,Yes,5.0,No,Yes,No,Unemployed,Diploma
+150,Female,Bisexual,12,187499.0,White,Obese,No,15.0,No,No,No,Unemployed,High school degree
+151,Female,Straight,23,5000.5,White non-Hispanic,Normal weight,No,3.0,Yes,Yes,No,Caretaker,Bachelor’s degree
+152,Male,Straight,29,137499.5,African,Overweight,Yes,6.0,Yes,Yes,Yes,Engineer,College degree
+153,Male,Straight,24,62499.5,White non-Hispanic,Normal weight,No,20.0,Yes,No,No,Coo,Bachelor’s degree
+154,Male,Straight,30,5000.5,White non-Hispanic,Underweight,Yes,1.0,Yes,Yes,No,Researcher,Doctorate degree
+155,Male,Straight,21,0.0,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Software Developer,College degree
+156,Male,Straight,18,0.0,Asian,Underweight,Yes,3.0,Yes,Yes,Yes,Unemployed,Diploma
+157,Male,Straight,22,0.0,Hispanic,Overweight,Yes,2.0,Yes,Yes,No,Unemployed,Associate degree
+158,Male,Straight,22,24999.5,White non-Hispanic,Overweight,Yes,3.0,Yes,No,No,Courier,College degree
+159,Male,Straight,26,34999.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Accountant,Associate degree
+160,Male,Straight,20,0.0,Hispanic,Overweight,Yes,1.0,Yes,Yes,Yes,Unemployed,College degree
+161,Male,Straight,17,0.0,Hispanic,Normal weight,Yes,6.0,No,No,No,Unemployed,High school degree
+162,Male,Straight,20,14999.5,White non-Hispanic,Underweight,Yes,1.0,Yes,No,No,Zivildiener,Diploma
+163,Male,Straight,28,87499.5,Middle Eastern,Normal weight,Yes,10.0,No,No,No,Software Engineer,Bachelor’s degree
+164,Male,Straight,36,62499.5,Asian,Normal weight,No,80.0,No,Yes,No,Unemployed,Bachelor’s degree
+165,Female,Straight,26,44999.5,White non-Hispanic,Obese,Yes,2.0,Yes,Yes,No,Nurse,Bachelor’s degree
+166,Male,Straight,28,0.0,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+167,Male,Straight,21,87499.5,Asian,Normal weight,Yes,1.0,No,Yes,No,Auditor,Master’s degree
+168,Male,Straight,21,0.0,Asian,Normal weight,Yes,5.0,Yes,No,No,Unemployed,Bachelor’s degree
+169,Male,Straight,23,14999.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+170,Male,Straight,23,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,Associate degree
+171,Male,Bisexual,23,24999.5,White non-Hispanic,Normal weight,No,10.0,Yes,Yes,No,Freelancer,College degree
+172,Male,Straight,28,14999.5,White non-Hispanic,Normal weight,No,5.0,Yes,Yes,No,Clerk,High school degree
+173,Male,Straight,31,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,Entrepreneur,High school degree
+174,Male,Straight,19,5000.5,Asian,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,Diploma
+175,Female,Gay/Lesbian,15,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,No,No,Unemployed,High school degree
+176,Male,Straight,26,5000.5,Turkish,Overweight,Yes,3.0,Yes,Yes,No,Manager,Master’s degree
+177,Male,Straight,28,62499.5,Asian,Overweight,Yes,10.0,Yes,Yes,No,Mechanical engineer,Master’s degree
+178,Male,Straight,23,5000.5,White non-Hispanic,Overweight,Yes,10.0,Yes,Yes,No,Manager,Diploma
+179,Male,Gay/Lesbian,26,34999.5,White non-Hispanic,Overweight,Yes,0.0,No,Yes,Yes,Flight Attendant,Associate degree
+180,Male,Straight,27,34999.5,White non-Hispanic,Normal weight,Yes,15.0,No,No,No,Interpreter,Master’s degree
+181,Male,Straight,26,0.0,White non-Hispanic,Normal weight,Yes,10.0,No,Yes,No,Unemployed,Bachelor’s degree
+182,Male,Straight,35,34999.5,Asian,Normal weight,Yes,2.0,Yes,Yes,No,engineer,College degree
+183,Male,Straight,31,14999.5,White non-Hispanic,Obese,Yes,3.0,No,No,No,Unemployed,College degree
+185,Male,Straight,25,0.0,Hispanic,Normal weight,No,0.0,Yes,Yes,Yes,Unemployed,Bachelor’s degree
+186,Male,Straight,25,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+187,Male,Gay/Lesbian,25,0.0,White non-Hispanic,Overweight,Yes,6.0,Yes,Yes,No,Unemployed,Diploma
+188,Female,Bisexual,22,5000.5,White non-Hispanic,Normal weight,No,0.0,Yes,Yes,Yes,Unemployed,College degree
+189,Female,Straight,23,0.0,Asian,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+190,Female,Straight,21,137499.5,White non-Hispanic,Normal weight,No,16.0,No,No,No,Accountant,Associate degree
+191,Male,Straight,33,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,Yes,Unemployed,Diploma
+192,Male,Straight,18,62499.5,Asian,Normal weight,Yes,5.0,No,Yes,No,Intern,College degree
+193,Male,Straight,27,0.0,White non-Hispanic,Underweight,Yes,1.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+194,Male,Straight,21,14999.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Unemployed,Diploma
+195,Male,Straight,20,0.0,White non-Hispanic,Normal weight,No,0.0,No,No,No,Unemployed,Diploma
+196,Male,Straight,23,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,No,No,Unemployed,Bachelor’s degree
+197,Male,Straight,29,44999.5,Asian,Obese,Yes,0.0,No,No,No, Therapy,Bachelor’s degree
+198,Male,Straight,23,5000.5,Asian,Normal weight,Yes,2.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+199,Female,Straight,26,5000.5,White non-Hispanic,Overweight,Yes,0.0,No,Yes,Yes,Unemployed,Diploma
+200,Male,Straight,22,14999.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+201,Male,Straight,23,0.0,Indian,Underweight,Yes,3.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+202,Male,Straight,27,0.0,White non-Hispanic,Overweight,Yes,6.0,Yes,Yes,Yes,Philosopher,High school degree
+203,Male,Straight,24,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,Yes,Unemployed,Diploma
+204,Male,Straight,28,0.0,White non-Hispanic,Normal weight,No,3.0,Yes,Yes,No,Unemployed,Master’s degree
+205,Male,Straight,19,14999.5,White non-Hispanic,Overweight,Yes,10.0,No,Yes,Yes,Software Engineer,Trade
+206,Male,Straight,24,5000.5,African,Underweight,No,4.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+207,Male,Straight,25,137499.5,White non-Hispanic,Normal weight,No,30.0,No,No,No,Financial Analyst,Bachelor’s degree
+208,Male,Straight,18,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,No,No,Unemployed,Diploma
+209,Male,Straight,27,0.0,White non-Hispanic,Underweight,No,13.0,No,Yes,No,Unemployed,Diploma
+210,Female,Gay/Lesbian,35,5000.5,African,Obese,No,3.0,Yes,Yes,No,Unemployed,College degree
+211,Male,Straight,19,0.0,White non-Hispanic,Normal weight,Yes,6.0,Yes,No,No,Unemployed,Diploma
+212,Female,Bisexual,21,5000.5,White non-Hispanic,Normal weight,No,7.0,Yes,Yes,Yes,Lifeguard,Bachelor’s degree
+213,Female,Straight,30,5000.5,White non-Hispanic,Overweight,Yes,0.0,No,Yes,No,lackey,Bachelor’s degree
+214,Male,Straight,18,34999.5,Indian,Normal weight,Yes,0.0,Yes,Yes,Yes,Unemployed,Diploma
+215,Female,Bisexual,27,24999.5,White non-Hispanic,Normal weight,Yes,10.0,Yes,No,No,Teacher,Bachelor’s degree
+216,Male,Straight,35,14999.5,White non-Hispanic,Normal weight,Yes,4.0,Yes,Yes,No,online seller,College degree
+217,Male,Straight,28,5000.5,White non-Hispanic,Normal weight,Yes,15.0,No,No,No,Unemployed,Bachelor’s degree
+218,Female,Straight,28,24999.5,White non-Hispanic,Overweight,No,20.0,No,No,No,Musician,Master’s degree
+219,Male,Straight,19,5000.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Unemployed,High school degree
+220,Female,Straight,29,62499.5,White non-Hispanic,Normal weight,No,5.0,Yes,Yes,Yes,Graphics Designer,Associate degree
+221,Male,Straight,29,34999.5,White non-Hispanic,Normal weight,Yes,7.0,Yes,No,Yes,Production Editor,Bachelor’s degree
+222,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,College degree
+223,Male,Straight,24,5000.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Unemployed,College degree
+224,Male,Straight,20,5000.5,African,Normal weight,Yes,10.0,Yes,Yes,No,Medical Student,College degree
+225,Male,Straight,23,62499.5,White non-Hispanic,Normal weight,Yes,4.0,Yes,Yes,No,Analyst,Diploma
+226,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,Yes,Unemployed,Bachelor’s degree
+227,Male,Straight,17,0.0,White non-Hispanic,Normal weight,Yes,10.0,No,No,No,Unemployed,Diploma
+228,Male,Straight,19,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,High school degree
+229,Male,Straight,24,0.0,White non-Hispanic,Overweight,Yes,1.0,No,Yes,No,Unemployed,Bachelor’s degree
+230,Male,Straight,31,24999.5,White non-Hispanic,Overweight,No,3.0,Yes,Yes,No,Manager,College degree
+231,Male,Straight,22,14999.5,White non-Hispanic,Normal weight,No,8.0,No,Yes,No,Unemployed,Bachelor’s degree
+232,Male,Straight,24,14999.5,Asian,Overweight,No,3.0,Yes,Yes,No,Clerk,Bachelor’s degree
+233,Male,Straight,31,24999.5,White non-Hispanic,Normal weight,No,2.0,Yes,Yes,No,Unemployed,College degree
+234,Male,Straight,22,24999.5,Asian,Normal weight,Yes,3.0,Yes,No,No,Unemployed,Bachelor’s degree
+235,Male,Straight,20,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+236,Female,Straight,27,5000.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,Yes,Unemployed,Diploma
+237,Male,Straight,24,5000.5,African,Overweight,Yes,6.0,No,No,No,Unemployed,Bachelor’s degree
+238,Male,Straight,26,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+239,Male,Straight,22,0.0,Asian,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+240,Male,Straight,26,34999.5,White non-Hispanic,Overweight,Yes,4.0,Yes,Yes,No,Storekeeper ,Bachelor’s degree
+241,Male,Straight,24,34999.5,White non-Hispanic,Normal weight,No,0.0,No,Yes,No,Researcher,Associate degree
+242,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,20.0,No,Yes,No,Unemployed,Master’s degree
+243,Male,Straight,18,0.0,White non-Hispanic,Normal weight,No,6.0,Yes,Yes,No,President,Diploma
+244,Male,Straight,22,14999.5,African,Normal weight,Yes,5.0,No,Yes,Yes,Sales,College degree
+245,Male,Straight,22,62499.5,White non-Hispanic,Normal weight,Yes,15.0,No,No,No,IT,College degree
+246,Male,Straight,19,0.0,White non-Hispanic,Normal weight,No,0.0,No,Yes,Yes,Unemployed,College degree
+247,Male,Straight,18,0.0,Asian,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+248,Male,Straight,21,0.0,Indian,Normal weight,Yes,10.0,Yes,No,No,Unemployed,Bachelor’s degree
+249,Male,Straight,31,14999.5,Mixed,Overweight,Yes,3.0,Yes,Yes,No,Press operator,College degree
+250,Male,Bisexual,25,14999.5,White non-Hispanic,Underweight,Yes,28.0,No,Yes,No,Unemployed,Bachelor’s degree
+251,Male,Straight,23,14999.5,White non-Hispanic,Normal weight,No,4.0,Yes,No,No,Unemployed,Bachelor’s degree
+252,Male,Straight,27,5000.5,White non-Hispanic,Normal weight,Yes,10.0,Yes,Yes,No,Cleaner,Bachelor’s degree
+253,Male,Straight,19,0.0,White non-Hispanic,Obese,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+254,Male,Straight,20,14999.5,White non-Hispanic,Underweight,No,2.0,Yes,Yes,No,IT,Diploma
+255,Male,Bisexual,20,0.0,White non-Hispanic,Underweight,Yes,0.0,No,No,No,Unemployed,Diploma
+256,Male,Straight,26,0.0,White non-Hispanic,Overweight,Yes,3.0,Yes,No,No,Unemployed,High school degree
+257,Male,Straight,31,34999.5,White non-Hispanic,Normal weight,No,100.0,No,Yes,No,Manager,Bachelor’s degree
+258,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,Yes,Unemployed,Diploma
+259,Male,Straight,22,5000.5,White non-Hispanic,Overweight,Yes,4.0,Yes,Yes,Yes,Intern,Trade
+260,Male,Bisexual,28,34999.5,White non-Hispanic,Overweight,No,10.0,Yes,Yes,No,engineer,Bachelor’s degree
+261,Male,Straight,24,0.0,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Web developer,Bachelor’s degree
+262,Male,Straight,26,112499.5,White non-Hispanic,Obese,No,0.0,Yes,Yes,No,Software Developer,Bachelor’s degree
+263,Male,Straight,23,0.0,White non-Hispanic,Normal weight,Yes,5.0,Yes,Yes,Yes,Unemployed,Bachelor’s degree
+264,Female,Straight,27,62499.5,White non-Hispanic,Normal weight,Yes,4.0,Yes,Yes,Yes,Unemployed,Doctorate degree
+265,Male,Straight,33,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,Unemployed,Bachelor’s degree
+266,Female,Straight,26,0.0,Mixed,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+267,Male,Straight,30,24999.5,White non-Hispanic,Normal weight,No,3.0,Yes,Yes,No,Warehouse associate,Diploma
+268,Male,Straight,24,0.0,White non-Hispanic,Obese,Yes,2.0,Yes,Yes,No,Unemployed,Associate degree
+270,Male,Straight,27,34999.5,White non-Hispanic,Overweight,Yes,7.0,No,Yes,No,Trainee Mechanical Engineer,Bachelor’s degree
+271,Male,Straight,27,62499.5,White non-Hispanic,Obese,Yes,5.0,Yes,No,No,Teacher,Bachelor’s degree
+272,Male,Straight,32,62499.5,Asian,Normal weight,No,10.0,Yes,Yes,No,Unemployed,College degree
+273,Male,Straight,27,34999.5,White non-Hispanic,Normal weight,No,0.0,No,No,No,engineer,Master’s degree
+274,Male,Straight,20,0.0,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,Unemployed,Bachelor’s degree
+275,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,5.0,No,No,No,Unemployed,College degree
+276,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,Yes,Cleaner,High school degree
+277,Male,Straight,26,0.0,White non-Hispanic,Normal weight,Yes,0.0,No,No,No,Unemployed,College degree
+278,Male,Straight,22,0.0,African,Normal weight,Yes,25.0,Yes,Yes,Yes,Unemployed,College degree
+279,Male,Straight,23,24999.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Architectural Technician,Associate degree
+281,Male,Straight,28,0.0,Asian,Normal weight,No,4.0,Yes,Yes,No,Unemployed,Professional degree
+282,Male,Straight,29,62499.5,Asian,Overweight,Yes,8.0,Yes,Yes,No,Administrator,Bachelor’s degree
+283,Female,Straight,19,5000.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,Unemployed,College degree
+284,Male,Straight,21,44999.5,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,Yes,IT,Diploma
+285,Male,Straight,19,0.0,Asian,Normal weight,Yes,20.0,No,No,No,Intern,Bachelor’s degree
+286,Male,Straight,19,0.0,White non-Hispanic,Underweight,Yes,1.0,Yes,Yes,No,Unemployed,College degree
+287,Male,Straight,20,0.0,Hispanic,Normal weight,No,7.0,Yes,Yes,No,Unemployed,College degree
+288,Male,Straight,22,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,No,No,Unemployed,College degree
+289,Male,Straight,20,5000.5,White non-Hispanic,Overweight,Yes,0.0,Yes,Yes,No,Call Center Agent,Diploma
+290,Male,Bisexual,25,14999.5,White non-Hispanic,Normal weight,No,7.0,Yes,No,No,Courier,College degree
+291,Male,Straight,30,14999.5,Mixed,Overweight,Yes,4.0,Yes,Yes,No,Stockroom Assistant,Master’s degree
+292,Male,Straight,30,62499.5,White non-Hispanic,Normal weight,Yes,6.0,No,No,No,Teacher,Bachelor’s degree
+293,Male,Straight,22,0.0,Mixed,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,Diploma
+294,Male,Straight,26,44999.5,White non-Hispanic,Normal weight,Yes,3.0,No,No,No,Engineer,Bachelor’s degree
+295,Male,Straight,36,44999.5,White non-Hispanic,Obese,Yes,0.0,Yes,Yes,No,Clerk,College degree
+296,Male,Straight,23,34999.5,White non-Hispanic,Normal weight,No,8.0,Yes,No,No,Unemployed,Bachelor’s degree
+297,Male,Bisexual,16,5000.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,Yes,Herder,Diploma
+298,Female,Straight,25,14999.5,Asian,Normal weight,Yes,20.0,No,Yes,No,Graphics Designer,Bachelor’s degree
+299,Female,Straight,37,14999.5,Asian,Normal weight,Yes,1.0,No,No,No,Administrator,Bachelor’s degree
+300,Male,Straight,24,0.0,White non-Hispanic,Underweight,Yes,2.0,Yes,Yes,No,Unemployed,College degree
+301,Male,Straight,21,0.0,Indian,Overweight,Yes,0.0,No,Yes,No,Unemployed,College degree
+302,Male,Straight,18,5000.5,White non-Hispanic,Overweight,No,4.0,Yes,No,No,Gardner,High school degree
+303,Male,Straight,23,0.0,White non-Hispanic,Normal weight,No,20.0,No,No,No,Unemployed,Bachelor’s degree
+304,Male,Straight,29,24999.5,Asian,Overweight,No,0.0,Yes,Yes,No,cook,High school degree
+305,Male,Straight,18,5000.5,White non-Hispanic,Normal weight,Yes,12.0,No,Yes,No,Entrepreneur,Diploma
+306,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,20.0,Yes,No,No,Unemployed,High school degree
+307,Male,Straight,21,0.0,White non-Hispanic,Underweight,Yes,2.0,Yes,Yes,No,Unemployed,Diploma
+308,Male,Straight,18,0.0,Asian,Normal weight,Yes,8.0,No,No,No,Unemployed,College degree
+309,Male,Straight,20,44999.5,White non-Hispanic,Normal weight,Yes,10.0,No,Yes,No,Unemployed,Diploma
+310,Male,Straight,39,34999.5,Asian,Normal weight,No,10.0,No,No,Yes,Analyst,College degree
+311,Male,Straight,30,87499.5,Mixed,Normal weight,No,15.0,No,No,No,Engineer,Master’s degree
+312,Male,Bisexual,19,0.0,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Artist,Diploma
+313,Male,Straight,19,0.0,White non-Hispanic,Normal weight,Yes,20.0,No,Yes,No,Unemployed,College degree
+314,Male,Straight,26,62499.5,Asian,Normal weight,No,60.0,No,No,No,Research Associate,Bachelor’s degree
+315,Male,Straight,22,62499.5,White non-Hispanic,Obese,Yes,600.0,No,No,No,Insurance agent. ,College degree
+316,Male,Straight,23,24999.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,mechanic,Trade
+317,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,Yes,Programmer,High school degree
+318,Male,Straight,15,0.0,Hispanic,Overweight,Yes,5.0,No,Yes,No,Unemployed,High school degree
+319,Male,Straight,22,5000.5,White non-Hispanic,Underweight,Yes,1.0,Yes,Yes,Yes,Unemployed,College degree
+320,Male,Straight,26,14999.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Sales Associate,Bachelor’s degree
+321,Male,Straight,30,24999.5,White non-Hispanic,Overweight,No,5.0,No,No,No,Teacher,Bachelor’s degree
+322,Male,Straight,38,62499.5,White non-Hispanic,Overweight,No,7.0,Yes,Yes,Yes,Administrator,Trade
+323,Male,Straight,22,24999.5,White non-Hispanic,Overweight,Yes,10.0,Yes,Yes,No,Manager,College degree
+324,Female,Straight,20,62499.5,African,Normal weight,Yes,2.0,Yes,No,No,Web developer,Bachelor’s degree
+325,Male,Straight,24,24999.5,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Teacher,High school degree
+326,Male,Straight,31,0.0,White non-Hispanic,Normal weight,Yes,30.0,No,No,No,Unemployed,Master’s degree
+327,Male,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,20.0,Yes,Yes,No,Unemployed,College degree
+328,Male,Straight,21,0.0,White non-Hispanic,Overweight,Yes,2.0,Yes,No,No,Unemployed,Diploma
+329,Male,Straight,23,5000.5,White non-Hispanic,Overweight,Yes,3.0,Yes,Yes,No,Unemployed,College degree
+330,Male,Straight,20,0.0,White non-Hispanic,Normal weight,Yes,5.0,Yes,No,No,Unemployed,Associate degree
+331,Female,Straight,27,34999.5,Hispanic,Normal weight,Yes,3.0,No,No,No,Sales manager,Bachelor’s degree
+332,Male,Straight,30,0.0,White non-Hispanic,Obese,Yes,0.0,No,No,No,Unemployed,College degree
+333,Male,Straight,23,0.0,Asian,Overweight,No,4.0,No,Yes,Yes,jpo,No degree
+334,Male,Straight,25,5000.5,Mixed,Overweight,Yes,6.0,Yes,Yes,No,Janitor,Diploma
+335,Female,Straight,22,14999.5,White non-Hispanic,Normal weight,Yes,0.2,No,No,No,Unemployed,Master’s degree
+336,Male,Straight,20,0.0,White non-Hispanic,Normal weight,Yes,6.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+337,Female,Straight,24,34999.5,Hispanic,Overweight,No,10.0,No,Yes,No,Data and development,Bachelor’s degree
+338,Male,Straight,19,24999.5,White non-Hispanic,Normal weight,Yes,10.0,No,Yes,No,Unemployed,College degree
+339,Female,Bisexual,21,0.0,Hispanic,Overweight,No,2.0,No,No,Yes,Unemployed,College degree
+340,Male,Straight,20,14999.5,White non-Hispanic,Overweight,Yes,5.0,No,No,No,Cashier,College degree
+341,Female,Bisexual,23,14999.5,African,Normal weight,Yes,3.0,Yes,Yes,Yes,Clerk,Master’s degree
+342,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Graphics Designer,Associate degree
+343,Male,Straight,18,0.0,White non-Hispanic,Overweight,Yes,5.0,Yes,Yes,No,Unemployed,High school degree
+344,Female,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,Unemployed,College degree
+345,Male,Straight,23,44999.5,White non-Hispanic,Normal weight,No,0.0,No,No,No,Unemployed,Bachelor’s degree
+346,Female,Bisexual,21,0.0,Asian,Normal weight,No,0.0,Yes,Yes,No,Unemployed,College degree
+347,Male,Straight,18,14999.5,White non-Hispanic,Underweight,Yes,5.0,Yes,Yes,No,Lawm Maintenance,Diploma
+348,Female,Bisexual,20,0.0,White non-Hispanic,Normal weight,Yes,15.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+349,Male,Straight,20,5000.5,Hispanic,Overweight,Yes,4.0,Yes,Yes,Yes,Retail ,College degree
+350,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,3.0,No,Yes,Yes,Unemployed,College degree
+351,Male,Straight,25,0.0,White non-Hispanic,Normal weight,No,0.0,No,Yes,No,Unemployed,Diploma
+352,Male,Straight,24,0.0,White non-Hispanic,Normal weight,No,0.0,Yes,Yes,No,Unemployed,Diploma
+353,Female,Bisexual,20,0.0,White non-Hispanic,Obese,Yes,1.0,Yes,Yes,No,Unemployed,Diploma
+354,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,5.0,No,No,No,Unemployed,Trade
+355,Male,Gay/Lesbian,21,14999.5,White non-Hispanic,Normal weight,No,3.0,Yes,Yes,No,Clerk,College degree
+356,Male,Straight,39,14999.5,White non-Hispanic,Normal weight,Yes,5.0,Yes,No,No,Administrator,Diploma
+357,Male,Straight,20,24999.5,White non-Hispanic,Overweight,Yes,1.0,Yes,Yes,No,Unemployed,High school degree
+358,Female,Straight,23,44999.5,Asian,Normal weight,No,5.0,Yes,Yes,Yes,Accountant,Bachelor’s degree
+359,Male,Straight,30,34999.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,Yes,Postman,Diploma
+360,Male,Straight,25,24999.5,Asian,Overweight,Yes,7.0,No,No,No,Stoker,Diploma
+361,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Unemployed,Diploma
+362,Male,Straight,19,0.0,White non-Hispanic,Overweight,Yes,4.0,No,No,No,Unemployed,College degree
+363,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,20.0,Yes,No,No,Unemployed,College degree
+364,Male,Straight,23,34999.5,White non-Hispanic,Normal weight,Yes,7.0,Yes,Yes,No,Software Developer,Bachelor’s degree
+365,Male,Straight,28,14999.5,White non-Hispanic,Obese,Yes,4.0,Yes,Yes,Yes,Stocker,College degree
+366,Male,Straight,18,14999.5,White non-Hispanic,Normal weight,Yes,6.0,Yes,No,No,Waiter,High school degree
+367,Male,Straight,21,0.0,African,Normal weight,Yes,0.0,Yes,Yes,No,Finance student,Master’s degree
+368,Female,Bisexual,30,62499.5,White non-Hispanic,Normal weight,Yes,2.0,No,Yes,Yes,Unemployed,Bachelor’s degree
+369,Male,Straight,21,5000.5,White non-Hispanic,Normal weight,Yes,2.0,No,No,No,Teacher,Associate degree
+370,Male,Bisexual,21,0.0,Asian,Normal weight,Yes,3.0,No,Yes,No,Unemployed,College degree
+371,Male,Straight,14,0.0,Mixed,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,High school degree
+372,Male,Straight,22,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,Unemployed,Trade
+373,Male,Straight,33,44999.5,White non-Hispanic,Overweight,No,1.0,Yes,Yes,No,Consultant,College degree
+374,Male,Straight,24,62499.5,Asian,Normal weight,Yes,13.0,Yes,Yes,No,Analyst,Bachelor’s degree
+375,Male,Straight,17,0.0,White non-Hispanic,Normal weight,Yes,5.0,Yes,No,No,Unemployed,Diploma
+376,Male,Bisexual,28,24999.5,White non-Hispanic,Obese,Yes,0.0,Yes,Yes,No,Caretaker,Diploma
+377,Male,Straight,18,5000.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,High school degree
+378,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,No,No,Unemployed,High school degree
+379,Male,Straight,27,5000.5,White non-Hispanic,Overweight,Yes,2.0,Yes,Yes,No,Unemployed,Diploma
+380,Male,Straight,18,0.0,Asian,Underweight,Yes,7.0,No,Yes,No,Unemployed,College degree
+382,Male,Straight,29,34999.5,White non-Hispanic,Normal weight,Yes,40.0,Yes,Yes,No,Operations executive,Bachelor’s degree
+383,Male,Straight,20,5000.5,Asian,Underweight,Yes,2.0,No,No,No,Unemployed,Bachelor’s degree
+384,Male,Straight,20,14999.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,law (enforcement) officer,Diploma
+385,Male,Straight,20,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+386,Male,Straight,20,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+387,Male,Straight,18,0.0,White non-Hispanic,Overweight,Yes,30.0,No,No,No,Unemployed,High school degree
+388,Male,Straight,19,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,No,No,Unemployed,Diploma
+389,Female,Straight,25,14999.5,White non-Hispanic,Normal weight,No,8.0,No,No,No,Cashier,College degree
+390,Male,Straight,25,62499.5,Mixed,Normal weight,No,12.0,No,No,No,Consultant,Master’s degree
+391,Male,Bisexual,21,0.0,White non-Hispanic,Underweight,Yes,0.0,No,Yes,Yes,Unemployed,College degree
+392,Male,Straight,20,5000.5,White non-Hispanic,Overweight,Yes,6.0,Yes,Yes,No,Student employee,College degree
+393,Female,Straight,23,24999.5,African,Overweight,No,15.0,No,Yes,Yes,Usher ,College degree
+394,Male,Straight,24,5000.5,White non-Hispanic,Normal weight,Yes,1.0,No,No,No,Postman,College degree
+396,Male,Straight,32,34999.5,White non-Hispanic,Normal weight,Yes,5.0,Yes,No,No,Unemployed,Diploma
+397,Male,Straight,21,14999.5,White non-Hispanic,Overweight,No,2.0,Yes,Yes,No,Business representative,College degree
+398,Male,Straight,21,5000.5,African,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,High school degree
+399,Female,Bisexual,21,0.0,Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Unemployed,Bachelor’s degree
+400,Male,Straight,16,0.0,Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,High school degree
+401,Male,Straight,38,137499.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,Yes,Software Engineer,Bachelor’s degree
+402,Female,Gay/Lesbian,20,0.0,White non-Hispanic,Normal weight,No,2.0,No,No,Yes,Unemployed,Bachelor’s degree
+403,Male,Straight,24,14999.5,White non-Hispanic,Normal weight,Yes,5.0,Yes,No,No,production engineer,Master’s degree
+404,Male,Straight,22,0.0,White non-Hispanic,Overweight,No,2.0,No,No,No,Unemployed,College degree
+405,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,5.0,Yes,Yes,No,Unemployed,Diploma
+406,Male,Straight,18,0.0,White non-Hispanic,Underweight,Yes,12.0,Yes,Yes,No,Unemployed,Diploma
+407,Male,Straight,23,44999.5,Asian,Normal weight,Yes,4.0,No,No,No,Audit associate,Professional degree
+408,Male,Straight,23,24999.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,2nd lieutenant,Master’s degree
+409,Male,Straight,21,24999.5,Asian,Normal weight,Yes,9.0,No,Yes,No,Unemployed,Diploma
+410,Male,Bisexual,24,0.0,Mixed,Obese,Yes,3.0,Yes,Yes,Yes,Unemployed,High school degree
+411,Male,Straight,22,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+412,Female,Straight,17,5000.5,White non-Hispanic,Overweight,Yes,10.0,No,Yes,No,Waitress,High school degree
+413,Male,Bisexual,34,112499.5,White non-Hispanic,Obese,No,2.0,Yes,Yes,No,Software Developer,College degree
+414,Male,Bisexual,26,5000.5,Mixed,Normal weight,No,0.0,Yes,Yes,Yes,Artist,Bachelor’s degree
+415,Male,Straight,27,62499.5,White non-Hispanic,Obese,Yes,1.0,Yes,Yes,No,Auditor,Master’s degree
+416,Male,Straight,19,0.0,White non-Hispanic,Overweight,Yes,3.0,Yes,Yes,No,Unemployed,High school degree
+417,Male,Straight,15,0.0,White non-Hispanic,Underweight,Yes,1.0,Yes,Yes,No,Unemployed,High school degree
+418,Male,Straight,31,5000.5,White non-Hispanic,Normal weight,No,0.0,No,Yes,No,Software Developer,College degree
+419,Male,Straight,17,5000.5,White non-Hispanic,Overweight,Yes,3.0,Yes,Yes,Yes,Unemployed,Diploma
+420,Male,Straight,22,5000.5,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Web developer,Diploma
+421,Female,Straight,21,0.0,Asian,Underweight,No,1.0,Yes,No,No,Unemployed,College degree
+422,Female,Bisexual,19,0.0,White non-Hispanic,Normal weight,Yes,1.0,Yes,Yes,Yes,Unemployed,High school degree
+423,Male,Bisexual,26,0.0,European,Underweight,Yes,0.0,Yes,Yes,Yes,Unemployed,High school degree
+424,Male,Straight,24,5000.5,White non-Hispanic,Underweight,Yes,4.0,Yes,Yes,No,Administrator,College degree
+425,Male,Straight,18,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,No,No,Unemployed,High school degree
+426,Transgender female,Straight,25,5000.5,White non-Hispanic,Normal weight,Yes,5.0,Yes,Yes,Yes,Unemployed,College degree
+427,Male,Straight,23,14999.5,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+428,Male,Straight,25,34999.5,White non-Hispanic,Normal weight,No,20.0,No,No,No,Freight Broker,Associate degree
+429,Male,Bisexual,33,34999.5,White non-Hispanic,Normal weight,No,25.0,No,No,No,Coordinator,College degree
+430,Female,Straight,21,5000.5,White non-Hispanic,Normal weight,No,4.0,Yes,Yes,No,Researcher,College degree
+431,Female,Straight,30,14999.5,White non-Hispanic,Normal weight,No,12.0,No,Yes,No,freelance technical theatre,College degree
+432,Male,Straight,22,14999.5,African,Overweight,Yes,2.0,Yes,Yes,Yes,Retail Associate,Associate degree
+433,Male,Straight,24,5000.5,White non-Hispanic,Normal weight,Yes,0.0,No,Yes,No,IT,College degree
+434,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,1.0,No,No,No,Unemployed,Diploma
+435,Female,Bisexual,37,44999.5,Hispanic,Obese,No,400.0,No,No,No,Administrator,College degree
+436,Male,Straight,26,24999.5,Hispanic,Normal weight,Yes,1.0,Yes,Yes,No,IT,Associate degree
+437,Male,Straight,21,14999.5,White non-Hispanic,Overweight,No,3.0,No,Yes,No,Transport,Diploma
+438,Male,Straight,26,0.0,Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,High school degree
+439,Female,Straight,20,5000.5,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,Cleaner,Diploma
+440,Female,Straight,23,0.0,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Unemployed,Bachelor’s degree
+441,Male,Bisexual,26,14999.5,Hispanic,Normal weight,No,15.0,Yes,No,Yes,Marketing,Diploma
+442,Male,Straight,16,0.0,White non-Hispanic,Underweight,Yes,0.0,Yes,Yes,Yes,Unemployed,High school degree
+443,Male,Straight,24,34999.5,White non-Hispanic,Overweight,No,6.0,No,No,No,Screener,College degree
+444,Male,Straight,22,0.0,Hispanic,Overweight,Yes,0.0,Yes,Yes,Yes,Unemployed,College degree
+445,Female,Bisexual,20,5000.5,African,Normal weight,Yes,3.0,Yes,Yes,Yes,Unemployed,Diploma
+446,Male,Straight,25,14999.5,White non-Hispanic,Normal weight,No,0.0,No,No,No,Programmer,Associate degree
+447,Male,Straight,23,0.0,White non-Hispanic,Normal weight,Yes,0.0,Yes,Yes,No,Unemployed,College degree
+448,Male,Straight,25,0.0,White non-Hispanic,Overweight,Yes,3.0,No,Yes,No,Unemployed,Professional degree
+449,Male,Straight,27,5000.5,White non-Hispanic,Overweight,Yes,5.0,No,Yes,Yes,Graphics Designer,High school degree
+450,Male,Straight,23,34999.5,White non-Hispanic,Normal weight,No,10.0,No,No,No,Account Manager,Bachelor’s degree
+451,Female,Straight,25,0.0,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Teacher,Bachelor’s degree
+452,Male,Straight,22,5000.5,African,Normal weight,Yes,15.0,No,No,No,Guest Advisor,College degree
+453,Male,Straight,23,0.0,White non-Hispanic,Normal weight,Yes,2.0,Yes,No,No,Unemployed,College degree
+454,Female,Straight,21,14999.5,African,Overweight,No,0.0,Yes,No,No,customer service,College degree
+455,Female,Straight,31,44999.5,White non-Hispanic,Overweight,No,30.0,Yes,Yes,No,Teacher,Master’s degree
+456,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,2.0,Yes,Yes,No,Unemployed,High school degree
+457,Male,Straight,18,5000.5,White non-Hispanic,Normal weight,Yes,30.0,Yes,No,No,Warehouse Associate,Bachelor’s degree
+458,Male,Straight,24,87499.5,White non-Hispanic,Normal weight,No,11.0,Yes,No,No,Terminal worker ,High school degree
+459,Male,Bisexual,23,44999.5,White non-Hispanic,Overweight,Yes,10.0,Yes,Yes,No,PA,Bachelor’s degree
+460,Male,Straight,28,24999.5,African,Normal weight,No,1.0,Yes,No,No,Case Worker,Bachelor’s degree
+461,Male,Straight,18,5000.5,Asian,Overweight,Yes,5.0,Yes,Yes,Yes,Home depot,Diploma
+462,Male,Straight,18,0.0,White non-Hispanic,Normal weight,Yes,6.0,No,No,No,Unemployed,High school degree
+463,Transgender male,Bisexual,12,0.0,White non-Hispanic,Obese,No,0.5,Yes,No,Yes,Manager,High school degree
+464,Female,Straight,26,14999.5,White non-Hispanic,Overweight,Yes,10.0,Yes,No,No,Consultant IT,Master’s degree
+465,Male,Straight,31,34999.5,White non-Hispanic,Normal weight,No,10.0,No,No,No,castor,Diploma
+466,Female,Straight,17,5000.5,Asian,Normal weight,Yes,20.0,Yes,Yes,Yes,receptionist ,High school degree
+467,Male,Straight,18,0.0,Asian,Obese,Yes,16.0,Yes,Yes,No,Unemployed,Diploma
+468,Male,Straight,28,44999.5,White non-Hispanic,Normal weight,Yes,3.0,Yes,Yes,No,Scientist,Master’s degree
